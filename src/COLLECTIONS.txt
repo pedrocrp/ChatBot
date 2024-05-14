@@ -1,0 +1,3 @@
+general_collection
+new_collection
+new_collection_2
