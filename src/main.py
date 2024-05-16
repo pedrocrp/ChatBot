@@ -11,7 +11,6 @@ from fastapi import FastAPI, Path as PathParam, Query, File, UploadFile, HTTPExc
 
 from load_data import load_and_process_file, initialize_splitter
 from load_llm import load_llm
-from vector_db import create_vector_db, load_local_db
 from prompts import create_prompt
 from utils import read_file
 from VectorStore import VectorDB
@@ -27,7 +26,7 @@ db_name = {}
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     # Load the ML model
-    llm = load_llm("phi3:instruct")
+    llm = load_llm("llama3-chatqa")
     ml_models["answer_to_query"] = llm
     yield
     # Clean up the ML models and release the resources
@@ -121,8 +120,4 @@ def query(query : str, n_results : Optional[int] = 2, collection_name : Optional
     return {"message": f"Query is {query}",
             "relavent_docs" : search,
             "llm_output" : output}
-
-
-if __name__ == "__main__":
-    pass
 

@@ -1,3 +1,1 @@
-general_collection
-new_collection
-new_collection_2
+manual_do_estudante

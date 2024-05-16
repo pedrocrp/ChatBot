@@ -92,8 +92,6 @@ class VectorDB:
 
             page_contents = [doc.page_content for doc in unique_docs]
             metadatas = [doc.metadata for doc in unique_docs]
-            
-            print(collection.count())
 
             collection.add(documents=page_contents, metadatas=metadatas, ids=unique_ids)
             
