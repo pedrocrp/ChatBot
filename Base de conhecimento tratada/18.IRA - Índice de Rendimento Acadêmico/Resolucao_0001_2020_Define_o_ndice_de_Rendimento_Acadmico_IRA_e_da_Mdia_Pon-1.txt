@@ -1,0 +1,7 @@
+A Resolução da Câmara de Ensino de Graduação nº 0001/2020 da Universidade de Brasília estabelece os critérios para o cálculo do Índice de Rendimento Acadêmico (IRA) e da Média Ponderada (MP) dos estudantes.
+
+O IRA é uma medida numérica que reflete o desempenho acadêmico geral do estudante, variando de 0 a 5, onde 5 é o valor mais alto. Ele é calculado levando em conta a menção obtida pelo estudante em cada disciplina cursada, o número de créditos dessas disciplinas, e o semestre em que foram cursadas. As menções são convertidas em valores numéricos: SS (5), MS (4), MM (3), MI (2), II (1) e SR (0). A fórmula considera todas as disciplinas cursadas com menção.
+
+Já a Média Ponderada (MP) também varia de 0 a 5 e reflete o desempenho do estudante em um curso específico. Ela é calculada de maneira semelhante ao IRA, considerando apenas as disciplinas do módulo integrante do curso, que podem ser obrigatórias ou optativas. As disciplinas de módulo livre não são incluídas no cálculo da MP.
+
+Qualquer situação não prevista na resolução será decidida pelo Decanato de Ensino de Graduação, com possibilidade de recurso à Câmara de Ensino de Graduação. Esta resolução entrou em vigor na data de sua publicação, em 04 de dezembro de 2020.

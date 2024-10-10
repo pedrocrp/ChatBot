@@ -1,0 +1,24 @@
+resolucao_cepe_53_2022.pdf (FORMA DE INGRESSO):
+Similaridade de Cosseno: 0.6927
+Legibilidade do PDF: 35.45
+Legibilidade do TXT: 0.48
+
+resolucao_cepe_1995_0132.pdf (PAS):
+Similaridade de Cosseno: 0.6814
+Legibilidade do PDF: -2.86
+Legibilidade do TXT: 1.68
+
+resolucao_cepe_2010_0256:
+Similaridade de Cosseno: 0.8266
+Legibilidade do PDF: 29.85
+Legibilidade do TXT: 6.50
+
+Resoluo_CEPE_-_123_2017
+Similaridade de Cosseno: 0.5474
+Legibilidade do PDF: 39.49
+Legibilidade do TXT: 15.23
+
+Resoluo-CEPE-0053-2022_-_distribuio_de_vagas:
+Similaridade de Cosseno: 0.6518
+Legibilidade do PDF: 36.73
+Legibilidade do TXT: -8.20

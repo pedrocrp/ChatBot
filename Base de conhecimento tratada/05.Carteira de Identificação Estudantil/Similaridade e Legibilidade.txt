@@ -1,0 +1,9 @@
+PDF Original:
+Similaridade de Cosseno: 0.6642
+Legibilidade do PDF: 3.52
+Legibilidade do TXT: 14.91
+
+PDF Modificado:
+Similaridade de Cosseno: 0.7531
+Legibilidade do PDF: 14.50
+Legibilidade do TXT: 14.91

@@ -1,0 +1,146 @@
+PETICIONAMENTO ELETRÔNICO
+Para que serve: É um recurso disponibilizado via SEI que permite ao aluno iniciar solicitação à SAA eletronicamente, sem necessitar de deslocamento aos locais de atendimento.
+TIPOS DE TRANCAMENTO
+Existem 4 (quatro) modalidades de trancamento: 2 (duas) parciais (de disciplina) e 2 (duas) gerais. Ambos podem ser automático ou justificado, conforme é explicado no texto abaixo.
+
+TRANCAMENTO AUTOMÁTICO
+O aluno pode solicitar o trancamento geral de matrícula (TGM), o qual implica a suspensão de todas as atividades acadêmicas do estudante, sem perda de seu vínculo regular com a Universidade. Deverá ser requerido antes de completado 75% (setenta e cinco por cento) do semestre em que é pleiteado e será concedido automaticamente, sem impacto no IRA, por até dois semestres, consecutivos ou não.
+O aluno pode solicitar o trancamento parcial de matrícula (TR), o qual implica a suspensão das atividades curriculares do estudante em determinada(s) disciplina(s), sem prejuízo da avaliação nas demais disciplinas em que permanecer matriculado. Deverá ser requerido antes de completado 50% (cinquenta por cento) do semestre em que é pleiteado, e será concedido automaticamente.
+Essas solicitações são feitas diretamente através do SIGAA/Portal Discente.
+
+TRANCAMENTO JUSTIFICADO
+O aluno a qualquer momento pode solicitar o trancamento geral ou parcial justificado, desde que solicitados dentro de dois anos a partir do prazo limite para seu requerimento original ou a partir da cessação do motivo concreto que impossibilitou o estudante de efetivar o pleito na época correta. É necessário estar munido de comprovantes, por exemplo, no caso de motivo de saúde, o laudo/atestado médico. Deve-se digitalizar e anexar no SEI tais documentos.
+O requerente deve indicar o(s) semestre(s) no qual deseja que seja realizado o trancamento, conforme os exemplos abaixo:
+• Solicito o trancamento geral justificado apenas do 2º semestre de 2022;
+• Solicito o trancamento do 1º semestre de 2021 – Identificação das disciplinas (parcial);
+• Lembramos que o trancamento parcial de matrícula deve ser feito um por semestre. Essas solicitações são feitas diretamente através do Peticionamento Eletrônico – SEI/UnB.
+
+MODALIDADES
+
+Trancamento Geral de Matrícula Justificado (TGMJ). Trancamento de Disciplina Justificado (TJ).
+Todos os processos de trancamento deverão ser classificados como restrito ou sigiloso. O(s) motivo(s) apresentado(s) deverão ter os comprovantes anexados, caso existam.
+Exemplos:
+• Afastamento por motivo de saúde do(a) estudante ou parente de 1º grau em linha reta ou 2º grau colateral*;
+• Afastamento para estudos no exterior;
+• Afastamento por necessidade imperiosa do serviço público, ou seja, quando ocorre uma atividade fora de sua rotina natural de trabalho, como: um curso pelo qual o servidor é responsável;
+• Óbito de cônjuge, parente de 1º grau em linha reta ou 2º grau colateral;
+• Curso de Formação (em caso de servidor público civil ou militar);
+• Afastamento para incorporação ao serviço militar obrigatório;
+• Vulnerabilidade, por exemplo, psicológica ou social;
+• Casos omissos.
+* OBS: O Trancamento Justificado por motivo de saúde poderá ser submetido à Junta Médica da FUB.
+
+IMPORTANTE!
+As condições e impedimentos de cada modalidade de trancamento devem ser conferidas na Resolução CEPE nº 93/2019. Utilizar o formulário específico para o tipo de trancamento.
+
+PROCEDIMENTOS PARA ABRIR PROCESSO
+1. REALIZAR LOGIN NO SEI COMO USUÁRIO EXTERNO
+Acesse o Portal do Aluno aluno.unb.br e entre no Peticionamento Eletrônico (SEI). Se for o seu primeiro acesso, clique em Esqueci minha senha e preencha o campo e-mail com o endereço de  e-mail informado no registro acadêmico. Sua senha será encaminhada para o e-mail cadastrado no registro acadêmico.
+2. INICIAR NOVO PROCESSO
+Clique em Peticionamento depois em Processo Novo
+
+3. ESCOLHER O TIPO DE PROCESSO
+Leia o campo Orientações Gerais. Escolha o tipo de processo que deseja iniciar. Há duas modalidades de trancamento : 1) Para trancar o semestre, clique em Graduação: Trancamento Geral de Matrícula Justificado . 2) Para trancar disciplina(s), clique em Graduação: Trancamento Parcial de Matrícula Justificado, Clique em Peticionamento, depois em Processo Novo.
+
+4. PREENCHER FORMULÁRIO DE PETICIONAMENTO
+Em Especificação escrever: Curso / Grau / Turno da Graduação na UnB
+Exemplo: MATEMÁTICA / LICENCIATURA / NOTURNO
+
+
+5.PREENCHER FORMULÁRIO DE SOLICITAÇÃO
+Clique na modalidade de trancamento pretendida e preencha o formulário. Posteriormente, clique em Salvar e assine (peticionar).
+
+6. REQUERIMENTO DE TRANCAMENTO
+No formulário de preechimento (requerimento de trancamento) deve ser informado o período do trancamento, isto é, se o período é o atual ou retroativo.
+Deverá ser informado, também, o motivo do trancamento com as devidas comprovações por parte do(a) aluno(a) solicitante.
+Reitera-se que o SIGAA não admite o registro de trancamentos futuros, sendo assim, somente podem ser solicitados trancamentos para o período atual ou período(s) retroativo(s).
+A petição só será considerada válida, caso todos os campos do formulário estejam devidamente preenchidos.
+
+7. CONCLUIR PETICIONAMENTO
+1) Em Usuário Externo escreva o nome do(a) aluno(a).
+2) Em cargo/função: selecione a opção “Aluno(a) da Universidade de Brasília"
+3) Em Senha de Acesso ao SEI: Preencha o campo senha com a mesma com a qual acessou o sistema.
+Clique em Assinar
+
+8. CONSULTAR RECIBO E ACOMPANHAMENTO DE PROCESSO
+Com o número do processo em mãos, será possível acompanhar o andamento do seu peticionamento.
+Basta preencher o campo Nº do Processo ou Documento e clicar em
+Pesquisar. Você pode também utilizar os outros campos para realizar uma pesquisa livre.
+
+Os recibos de todas as petições realizadas pelo nosso sistema ficam registrados em Recibos Eletrônicos de Protocolo, para consultas posteriores.
+
+QUADRO DEMONSTRATIVO DE POSSIBILIDADES DE TRANCAMENTO GERAL DE MATRÍCULA
+motivos
+
+Artigo 9° O Trancamento Geral de Matrícula Justificado (TGMJ) ou o Trancamento de Disciplina Justificado (TJ), este úlmo, a critério do estudante que opte por não solicitar o Trancamento Geral, serão concedidos mediante simples comprovação, nas seguintes hipóteses:
+I. óbito de cônjuge ou companheiro, pais, irmãos, filhos, padrasto ou madrasta, enteados ou dependentes que vivam às expensas do estudante, ocorrido durante o semestre do requerimento, ou nos seis meses anteriores, pelo período máximo de dois semestres levos;
+II. afastamento para estudos no exterior, desde que o estudante apresente comprovante de obtenção de bolsa de estudos ou comprovante de aceitação da instituição a que se desna, pelo período máximo de dois semestres levos, exceto para programas regulados por meio de acordos interinstucionais com regulamentação própria que determinam a duração do afastamento;
+III. impedimento do cumprimento de atividades acadêmicas regulares pelo estudante, por necessidade imperiosa do serviço público, devidamente comprovada por autoridade competente, com duração de, no mínimo, 25% (vinte e cinco por cento) do semestre levo, pelo período máximo de quatro semestres levos;
+IV. afastamento para cumprimento do serviço militar obrigatório, pelo período do afastamento;
+V. afastamento para realizar curso de formação para servidor público civil ou militar, pelo período do afastamento.
+Parágrafo único. Será ainda concedido o Trancamento de Disciplina Justificado (TJ), mediante simples comprovação, nas seguintes hipóteses: I. houver ocorrido, na disciplina, matrícula de modo a resultar choque de horário com outra disciplina em que o estudante tenha se matriculado; II. o horário da disciplina ver sofrido alteração por movos alheios à vontade do estudante.
+
+Artigo 10° O Trancamento Geral de Matrícula Justificado (TGMJ) e o Trancamento de Disciplina Justificado (TJ) serão concedidos, mediante análise da comprovação e dos argumentos apresentados no requerimento do estudante, pela Coordenação de seu curso nas seguintes hipóteses:
+I. impossibilidade absoluta de cumprimento dos exercícios domiciliares previstos no Decreto-Lei n. 1.044/69 ou na Lei n. 6.202/75; II. doença de cônjuge ou companheiro, pais, irmãos, filhos, padrasto ou madrasta, enteados ou dependentes que vivam às expensas do estudante, ocorrido durante o semestre do requerimento, ou nos seis meses anteriores, pelo prazo máximo de dois semestres levos, na hipótese de Trancamento Geral de Matrícula Justificado (TGMJ); III. movos de saúde que impeçam a presença e acompanhamento do estudante no curso ou na(s) disciplina(s), desde que apresente relatório médico, o qual poderá ser analisado pela Junta Médica desta Universidade.
+Artigo 11° O Trancamento Geral de Matrícula Justificado (TGMJ) e o Trancamento de Disciplina Justificado (TJ) serão concedidos, mediante análise da comprovação e dos argumentos apresentados no requerimento do estudante, quer pela Coordenação de seu curso, quer pela Diretoria Técnica de Graduação (DTG), na hipótese de existência de situação de vulnerabilidade acadêmica ou de situações excepcionais que justifiquem a concessão do trancamento.
+Artigo 23° Os casos omissos serão resolvidos pela Câmara de Ensino e Graduação (CEG).
+
+solicitações de processos intercorrentes - orientações
+O processo intercorrente deverá ser gerado em caso de:
+1) Complementação de documentos não encaminhados no peticionamento inicial;
+2) Recurso contra o indeferimento do requerimento inicial de trancamento.
+Atenção! 
+No caso de recurso, o aluno deverá aguardar o resultado do requerimento inicial. Não será considerado válido o processo intercorrente gerado antes do resultado do requerimento inicial.
+
+1. COMPLEMENTAÇÃO DE DOCUMENTOS
+Para que serve: Possibilidade destinada aos estudantes para inserir os documentos comprobatórios da justificativa do trancamento (que não foram inseridos no requerimento inicial).
+Como solicitar: Por meio de processo intercorrente.
+2. RECURSO
+Para que serve: Caso o requerimento de trancamento (geral ou parcial) tenha sido indeferido, os estudantes têm a possibilidade de solicitar recurso.
+Prazo: Na hipótese de indeferimento do requerimento de trancamento, caberá recurso à Câmara de Ensino e Graduação (CEG/DEG), dentro do prazo de 15 (quinze) dias a contar da ciência do estudante do indeferimento do pedido de trancamento.
+Como solicitar: Por meio de processo intercorrente.
+
+1. REALIZAR LOGIN NO SEI COMO USUÁRIO EXTERNO
+Acesse o Sistema Eletrônico de Informação (SEI) (www.portalsei.unb.br) e clique em Usuário Externo e Aluno.
+O site é compatível com dispositivo móvel.
+Clique em Peticionamento, depois em Intercorrente.
+
+2. INICIAR PETICIONAMENTO INTERCORRENTE
+1) Leia as orientações;
+2) Na aba Processo, inserir o número do processo de referência em Número. Clique em Validar. O tipo será preenchido automaticamente.
+3) Clique em Adicionar.
+
+Para encontrar o número do processo de referência, basta acessar Controle de Acessos Externos ou Recibos Eletrônicos de Protocolo.
+
+4. INSERIR ESPECIFICAÇÕES DO DOCUMENTO
+
+Na aba Documentos
+Insira o documento faltante ou exposição de motivos
+(recurso) - sempre em formato PDF.
+Em tipo de documento, selecione a opção Documento ou Recurso.
+Em complemento, os estudanes podem detalhar o tipo de documento inserido.
+
+Em Formato, selecione conforme a seguir:
+Nato-digital, para arquivos que forem extraídos de sistemas informatizados. Por exemplo: documentos que possuem QRcode ou autenticação digital.
+Digitalizado, para arquivos que foram digitalizados. Por exemplo: documentos físicos, com carimbo e assinatura manual.
+Escolha o tipo de arquivo digitalizado entre:
+cópia autenticada administrativamente, cópia autenticada por cartório, cópia simples e documento original.
+Clicar em Adicionar. E, após inserir a documentação, clique em Peticionar.
+
+
+5. CONCLUIR PETICIONAMENTO
+Será aberta uma janela para inserir a assinatura eletronica:
+1)Em Usuário Externo dever conter o nome do(a) aluno(a)
+2)Em cargo/função: deve selecionar a opção "aluno(a) da Universidade de Brasília"
+3) Em Senha de Acesso ao SEI: o aluno(a) dev e preencher com
+a mesma senha gerada para o cadastro com o usuário externo.
+Clique em Assinar
+
+6. CONSULTAR RECIBO E ACOMPANHAMENTO DE PROCESSO
+Será gerado o Recibo Eletrônico de Protocolo – SEI, com número do processo.
+Com o número do processo é possível consultar o andamento de seu processo, ao clicar em Pesquisa Pública, após o processamento da demanda, conforme o item 10 dos Procedimentos para Abrir Processo.
+
+Em caso de dúvidas
+Após a leitura deste manual, caso ainda restem duvidas sobre como peticionar seu trancamento justificado, contate a coordenação de orientação e supervisão das unidades avançadas, da secretaria  de administração acadêmica - COS/SAA. A nossa equipe está disponível para melhor atendê-los
+
+e-mail: saacos@unb.br

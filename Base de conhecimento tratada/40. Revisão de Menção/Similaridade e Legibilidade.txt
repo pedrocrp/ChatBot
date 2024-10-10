@@ -1,0 +1,14 @@
+memo_circular_deg_17_1994 (1)
+Similaridade de Cosseno: 0.6860
+Legibilidade do PDF: 8.94
+Legibilidade do TXT: -13.48
+
+resolucao_cepe_1986_0006
+Similaridade de Cosseno: 0.8064
+Legibilidade do PDF: 24.85
+Legibilidade do TXT: -5.61
+
+resolucao_cepe_1987_0055
+Similaridade de Cosseno: 0.6375
+Legibilidade do PDF: 21.09
+Legibilidade do TXT: 16.68
